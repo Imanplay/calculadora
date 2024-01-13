@@ -1,7 +1,7 @@
 body {
   text-align: center;
   margin: 0;
-  background-color: crimson;
+  background-color: rgb(48, 44, 45);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -35,7 +35,7 @@ body {
 }
 
 #ac {
-  color: purple;
+  color: rgb(143, 4, 4);
 }
 
 .equal {
